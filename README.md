@@ -18,7 +18,7 @@ Yardımlaşma için birbirinizden ve benden yardım alabilirsiniz. Tek şart cop
 **Soru1:** String tipinde sabit bir şifre değişkeni oluşturunuz. Örneğin: String password = "12345"; gibi. Ardından, kullanıcıdan klavyeden bir şifre girmesini isteyiniz.
 Girilen şifre ile değişkende tuttuğunuz değeri kıyaslayınız. Eğer, iki değer birbirine eşitse ekrana "Giriş Başarılı!", değilse "Giriş Başarısız" yazdırınız.
 
-**Soru2:** Kullanıcının konsol ekrandan 4 temel matematiksel işlemi yapabildiği bir program yazmanız bekleniyor. Program aşağıdaki özellikleri sağlamalıdır.
+**Soru2:** Kullanıcının konsol ekranından 4 temel matematiksel işlemi yapabildiği bir program yazmanız bekleniyor. Program aşağıdaki özellikleri sağlamalıdır.
 
 - Yapılabilecek temel işlemler: Toplama, Çıkarma, Çarpma, Bölme
 - Kullanıcıya 4 işlemden birini seçeceği menüyü konsol ekrana yazdırınız. Örneğin: 1-Toplama, 2-Çıkarma vb...
