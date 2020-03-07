@@ -21,7 +21,7 @@ Girilen şifre ile değişkende tuttuğunuz değeri kıyaslayınız. Eğer, iki 
 **Soru2:** Kullanıcının konsol ekranından 4 temel matematiksel işlemi yapabildiği bir program yazmanız bekleniyor. Program aşağıdaki özellikleri sağlamalıdır.
 
 - Yapılabilecek temel işlemler: Toplama, Çıkarma, Çarpma, Bölme
-- Kullanıcıya 4 işlemden birini seçeceği menüyü konsol ekrana yazdırınız. Örneğin: 1-Toplama, 2-Çıkarma vb...
+- Kullanıcıya 4 işlemden birini seçeceği menüyü konsol ekranına yazdırınız. Örneğin: 1-Toplama, 2-Çıkarma vb...
 - Ardından kullanıcıdan 2 adet tamsayı tipinde sayı girmesini isteyiniz. Bu girilen iki sayıyı değişkenlerde saklayınız.
 - Seçilen işlem tipine göre matematiksel işlemi yapınız ve konsol ekranına yazdırınız.
 
