@@ -7,7 +7,7 @@ public class Soru3_OrtalamaHesap {
 		 * elemanlarýn ortalamasýný alacak programý geliþtiriniz. Programý yazarken
 		 * aþaðýdaki özelliklere uygun yazýnýz.
 		 * 
-		 * Rastgele oluþan 100 elemanlýk sayý kümesi program yeniden her çalýþtýðýnda
+		 * Rastgele oluþan 100 elemanlýk sayý kümesi program yeniden her baþlatýldýðýnda
 		 * deðiþsin. Sabit elemanlý bir dizi vermeyiniz! Ortalama almayý saðlayacak kodu
 		 * bir fonksiyon halinde tasarlayýnýz. Ýçine diziyi girdi (input) olarak alsýn.
 		 * Ortalama alan fonksiyon ortalamayý ondalýklý sayý olarak döndürsün. (return)
@@ -21,5 +21,6 @@ public class Soru3_OrtalamaHesap {
 
 		}
 	}
+	public static 
 
 }

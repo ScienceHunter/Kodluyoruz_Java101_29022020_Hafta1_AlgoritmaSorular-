@@ -3,7 +3,7 @@ public class Soru4_SekilCizimi {
 
 	public static void main(String[] args) {
 		/*
-		 * Soru4: Aşağıdaki görüntüyü konsol ekranına yazdıran algoritmayı tasarlayınız.
+		 * Soru4: AÅŸaÄŸÄ±daki gÃ¶rÃ¼ntÃ¶yÃ¶ konsol ekranÄ±na yazdÄ±ran algoritmayÄ± tasarlayÄ±nÄ±z.
 		 *
 		 **
 		 ***
