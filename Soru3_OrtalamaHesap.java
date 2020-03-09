@@ -1,5 +1,7 @@
-
 public class Soru3_OrtalamaHesap {
+	public static int n = 100;
+	public static int[] sayilar = new int[n];
+	public static double toplam = 0, ortalama;
 
 	public static void main(String[] args) {
 		/**
@@ -15,12 +17,30 @@ public class Soru3_OrtalamaHesap {
 		 */
 
 		System.out.println("Bu program rastgele 100 elemanlý tamsayý dizisindeki sayýlarýn ortalamasýný bulur.");
-		int[] sayilar = new int[100];
-		for (int i = 0; i < 100; i++) {
-			sayilar[i] = (int) (Math.random() * 100);
+		System.out.print("Üretilen sayýlar= ");
+		SayiUret(sayilar);
+		SayilarinToplami(sayilar);
+		SayilarinOrtalamasi(toplam);
+		System.out.println("Sayýlarýn ortalamasý: " + ortalama);
+	}
 
+	public static void SayiUret(int[] s) {
+		for (int i = 0; i < n; i++) {
+			sayilar[i] = (int) (Math.random() * n); // n tane rastgele sayý üretir.
+			System.out.print(sayilar[i] + " ");
 		}
 	}
-	public static 
+
+	public static void SayilarinToplami(int[] s) {
+		for (int i = 0; i < sayilar.length; i++) {
+			toplam = toplam + sayilar[i];
+		}
+		System.out.println("\nSayýlarýn toplamý= " + toplam);
+	}
+
+	public static double SayilarinOrtalamasi(double t) {
+
+		return ortalama = toplam / sayilar.length;
+	}
 
 }
