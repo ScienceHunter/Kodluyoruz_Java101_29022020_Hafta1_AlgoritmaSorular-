@@ -1,5 +1,6 @@
 
-public class Soru6_MetodKullanimi {
+public class Soru6_MetodKullanimi_WordDocument {
+	public static String body = "";
 
 	public static void main(String[] args) {
 		/*
@@ -23,7 +24,15 @@ public class Soru6_MetodKullanimi {
 		 * Not: Print sýnýfý içinde niçin statik metot kullandýðýmýzý kýsaca
 		 * açýklayýnýz.
 		 */
+		// b.getBody(body);
+	}
+
+	public Soru6_MetodKullanimi_WordDocument(String b) {
+		body = b;
 
 	}
 
+	public String getBody(String b) {
+		return body;
+	}
 }
